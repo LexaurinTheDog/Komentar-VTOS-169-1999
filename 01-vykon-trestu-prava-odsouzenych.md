@@ -255,6 +255,13 @@ Poradní komise je povinný, nezávislý a nerozhodující orgán; její význam
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
+- *NS* [12 Tmo 7/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1BE232E7F9D1B940C1257BD600467573?openDocument) — 14. 2. 2007, kat. A
+  > „K rozhodnutí podle § 60 odst. 1 tr. zák. o tom, zda se podmíněně odsouzený mladistvý ve zkušební době osvědčil, či zda se trestní opatření odnětí svobody vykoná, je podle § 4 z. s. m. příslušný soud pro mládež. Pro veřejné zasedání se uplatní ustanovení § 64 z. s. m., s výjimkou podle § 73 odst. 2 tohoto zákona"
+
 #### Věznice a zvláštní oddělení vazebních věznic (odst. 1)
 
 Trest se vykonává ve **věznici** nebo ve **zvláštním oddělení vazební věznice**. Věznice zřizuje a zrušuje **ministr spravedlnosti**; jejich správu vykonává Vězeňská služba podle zákona č. 555/1992 Sb. (pozn. 1)). Zřízení věznice v objektu, který Vězeňská služba nespravuje, upravuje § 13.
@@ -853,6 +860,11 @@ Vnitřní řád je vnitřním předpisem s vnějšími účinky vůči odsouzen�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
+
 #### Strava (odst. 1 a 2)
 
 Odsouzeným se poskytuje **pravidelná strava** v hodnotách odpovídajících **udržení zdraví**, se zřetelem ke zdravotnímu stavu, věku a obtížnosti práce. **Kulturní a náboženské tradice** se zohledňují „v rozsahu, v jakém to umožňuje provoz věznice" — jde o relativní povinnost, která však nesmí být vyprázdněna (čl. 16 odst. 1 Listiny). Prováděcí úprava (včetně stravy pro odsouzené, kteří vzhledem ke svému založení nebo přesvědčení nechtějí akceptovat běžnou stravu) je v § 15 a 16 vyhlášky č. 345/1999 Sb. Možnost **vlastní přípravy stravy** z potravin dodaných věznicí je určena zejména pro **výstupní oddíly** a slouží nácviku samostatného života po propuštění; podmínkou jsou odpovídající stavební, materiální a hygienické podmínky.
@@ -919,6 +931,11 @@ O **závažném onemocnění** nebo **úrazu vyžadujícím hospitalizaci** vyro
 > (5) Korespondence odsouzeného, který nemá žádné peněžní prostředky, adresovaná orgánům uvedeným v odstavci 3 se odešle na náklady věznice.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
+  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
 
 #### Právo na korespondenci bez omezení (odst. 1)
 
@@ -988,6 +1005,11 @@ Korespondence je neomezená a kontrolovatelná; privilegovaná korespondence je 
 > (5) Nejde-li o telefonáty s osobou uvedenou v § 17 odst. 3 nebo § 61 odst. 9, je Vězeňská služba oprávněna se seznamovat formou odposlechu s telefonáty uvedenými v odstavcích 1 a 3 a pořizovat jejich záznam.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [11 Tdo 298/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CD161F90AA458FB9C12588970017DDCD?openDocument) — 21. 4. 2022, kat. A
+  > „Záznam telefonátu pořízený Vězeňskou službou České republiky podle § 18 odst. 5 zákona č. 169/1999 Sb., o výkonu trestu odnětí svobody, ve znění pozdějších předpisů, může sloužit za důkaz v trestním řízení ve smyslu § 89 odst. 2 tr. ř"
 
 #### Telefonický kontakt s osobou blízkou (odst. 1)
 
@@ -1536,6 +1558,13 @@ Bylo-li sociální kapesné poskytnuto v době, kdy byl odsouzený poživatelem 
 > (4) O omezeních, jež budou uplatněna vůči odsouzenému ve výkonu trestu, proti němuž je vedeno trestní stíhání, a jsou-li splněny důvody vazby, rozhoduje soud podle zvláštního zákona.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 93/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2107EA0DE7F45F65C1257EF900416DFA?openDocument) — 26. 8. 2015, kat. A
+  > „Skutečnost, že dlužník je ve výkonu trestu odnětí svobody, nezakládá sama o sobě povinnost insolvenčního správce informovat takového dlužníka o svém postupu v insolvenčním řízení jinak (šířeji)než dlužníka, který zmíněným způsobem "omezen" není"
+- *NS* [30 Cdo 170/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6C6B17A43DB13D09C1257DCE000609CC?openDocument) — 17. 12. 2014, kat. A
+  > „Osoba ve výkonu trestu odnětí svobody může přijmout (samozřejmě i odmítnout) pouze takovou zdravotní péči, kterou indikovali lékaři Vězeňské služby České republiky, či na základě uzavřené dohody lékaři jiných zdravotnických zařízení (event. přivolaný lékař lékařské služby první pomoci nebo zdravotnické záchranné služby), a kterou lze poskytnout ve zdravotnických zařízeních Vězeňské služby České republiky, příp. za podmínek § 5 odst. 2 zákona č. 169/1999 Sb. ve zdravotnickém zařízení mimo objekty spravované Vězeňskou službou České republiky. Jinou zdravotní péči lze poskytnout pouze po rozhodnutí o přerušení výkonu trestu (§ 56 odst. 3 zákona č. 169/1999 Sb. nebo § 325 odst. 1 tr. ř.). Za újmu vzniklou osobě ve výkonu trestu odnětí svobody při poskytování zdravotní péče ze strany lékařů Vězeňské služby České republiky či v jejích zdravotnických zařízeních odpovídá stát podle obecných…"
 
 #### Obecná klauzule omezení (odst. 1)
 
